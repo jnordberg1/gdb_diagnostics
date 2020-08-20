@@ -12,7 +12,8 @@ computer_name      = {
         'MN20170811A': 'Malika',
         'MN20160330A': 'Erich',
         'MN20190226A': 'Nicholas',
-        'MN20170810A': 'Jacob'
+        'MN20170810A': 'Jacob',
+        'MN20180213A': 'Catherine'
         }
 
 def diagnose_gdb(stateChoice):
@@ -29,4 +30,4 @@ def diagnose_gdb(stateChoice):
     else:
         print "The {} database is clean".format(stateChoice)
         
-diagnose_gdb("PA")
+diagnose_gdb("ME")

@@ -12,7 +12,8 @@ computer_name      = {
         'MN20170811A': 'Malika',
         'MN20160330A': 'Erich',
         'MN20190226A': 'Nicholas',
-        'LAPTOP-61LLEIFE': 'Jacob'
+        'LAPTOP-61LLEIFE': 'Jacob',
+        'MN20180213A': 'Catherine'
         }
 
 #gdb = r"D:\Data\State\{}\{}.gdb".format(stateChoice, stateChoice)
